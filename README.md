@@ -12,9 +12,9 @@ case118_uncertaintydata_100.mat and case118_uncertaintydata_1000.mat are the unc
 mixGaussEm.m is for GMM theory.
 
 # Matlab Codes Environment
-Recommand Matlab Version: MATLAB R2020a
-Required packages: Yalmip, Matpower
-Required solver: Gurobi
+Recommand Matlab Version: MATLAB R2020a;
+Required packages: Yalmip, Matpower;
+Required solver: Gurobi.
 
 # References
 [1]	Qiu, F., Ahmed, S., Dey, S. S., & Wolsey, L. A., “Covering linear programming with violations,” INFORMS Journal on Computing, vol26, no.3, pp.531-546, 2014.
