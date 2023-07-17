@@ -13,7 +13,7 @@ mixGaussEm.m is for GMM theory.
 
 # Matlab Codes Environment
 Recommand Matlab Version: MATLAB R2020a
-Required packages: Yalmip, GMM ( provided in Supporting file )
+Required packages: Yalmip, Matpower
 Required solver: Gurobi
 
 # References
