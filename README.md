@@ -9,6 +9,7 @@ For M3, the uncertainty margins are obtained in M3_1.m, which is loaded in M3_2.
 case118WashingtonData.m and case118.m provide the system parameter of the IEEE 118-bus system.
 nearoptimalsolutions.mat is the near-optimal solution for 1000 scenarios obtained by the proposed method.
 case118_uncertaintydata_100.mat and case118_uncertaintydata_1000.mat are the uncertainty data of the IEEE 118-bus system for 100 scenarios and 1000 scenarios, respectively.
+mixGaussEm.m is for GMM theory.
 
 # Matlab Codes Environment
 Recommand Matlab Version: MATLAB R2020a
